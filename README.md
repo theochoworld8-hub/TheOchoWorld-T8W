@@ -1,8 +1,6 @@
-# TheOchoWorld-T8W
-White Paper, Smart Contract, Tokenomics and Documentation for T8W — TheOchoWorld
 # TheOchoWorld — T8W Token Documentation
 
-![Ocho Logo](ocho_32x32)
+![Ocho Logo](IMAGES/ochocara.png)
 
 **TheOchoWorld (T8W)** es un token de utilidad dentro del ecosistema TheOchoWorld, diseñado para la comunidad Geek, Gamer y Otaku. Este repositorio contiene documentación oficial, White Paper, código fuente del contrato BEP-20, tokenomics y roadmap.
 
@@ -12,7 +10,6 @@ White Paper, Smart Contract, Tokenomics and Documentation for T8W — TheOchoWor
 
 * **Versión en Español:** [T8W_WhitePaper_v1_ES.pdf](WHITE-PAPER/T8W_WhitePaper_v1_ES.pdf)
 * **Versión en Inglés:** [T8W_WhitePaper_v1_EN.pdf](WHITE-PAPER/T8W_WhitePaper_v1_EN.pdf)
-
 
 > El White Paper describe la misión, visión, propósito del token, tokenomics, hoja de ruta y valores diferenciales del proyecto.
 
