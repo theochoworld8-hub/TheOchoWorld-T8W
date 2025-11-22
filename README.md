@@ -12,6 +12,7 @@ White Paper, Smart Contract, Tokenomics and Documentation for T8W — TheOchoWor
 
 * **Versión en Español:** [T8W_WhitePaper_v1_ES.pdf](WHITE-PAPER/T8W_WhitePaper_v1_ES.pdf)
 * **Versión en Inglés:** [T8W_WhitePaper_v1_EN.pdf](WHITE-PAPER/T8W_WhitePaper_v1_EN.pdf)
+* [dd](WHITE-PAPER/T8W_WhitePaper_v1_EN.pdf)
 
 > El White Paper describe la misión, visión, propósito del token, tokenomics, hoja de ruta y valores diferenciales del proyecto.
 
