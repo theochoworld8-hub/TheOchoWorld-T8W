@@ -1,6 +1,6 @@
 # TheOchoWorld — T8W Token Documentation
 
-![Ocho Logo](IMAGES/ochocara.png)
+![Ocho Logo](IMAGES/ocho_32x32.png)
 
 **TheOchoWorld (T8W)** es un token de utilidad dentro del ecosistema TheOchoWorld, diseñado para la comunidad Geek, Gamer y Otaku. Este repositorio contiene documentación oficial, White Paper, código fuente del contrato BEP-20, tokenomics y roadmap.
 
